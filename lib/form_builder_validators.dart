@@ -12,6 +12,7 @@ export 'localization/intl/messages_fa.dart';
 export 'localization/intl/messages_fr.dart';
 export 'localization/intl/messages_hr.dart';
 export 'localization/intl/messages_hu.dart';
+export 'localization/intl/messages_hy.dart';
 export 'localization/intl/messages_id.dart';
 export 'localization/intl/messages_it.dart';
 export 'localization/intl/messages_ja.dart';
